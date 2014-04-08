@@ -11,8 +11,9 @@ body {
 
 h1 {
   color: white;
-  background-color: blue;
   font-family: 'Aldrich', sans-serif;
+  margin-left: 38%;
+
 
 }
 
@@ -21,21 +22,27 @@ li:nth-child(2n) {
 }
 
 h4 {
-  border: 1px dashed red;
+
   border-radius: 5%;
 font-family: 'Londrina Outline', cursive;
 letter-spacing: 2px;
-color: white
+color: white;
+margin-left: 42%;
+
 }
 
 li {
   color: blue;
   font-family: 'Nosifer', cursive;
-  border-radius: 50%;
+  border-radius: 25%;
   float: left;
   background-color: white;
   margin: 15px;
   padding: 10px;
   position: center;
   list-style: none;
+
 }
+
+ul {
+  margin-left: 25%;
