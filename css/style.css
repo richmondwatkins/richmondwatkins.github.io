@@ -25,6 +25,7 @@ h4 {
   border-radius: 5%;
 font-family: 'Londrina Outline', cursive;
 letter-spacing: 2px;
+color: white;
 }
 
 li:nth-child(2n + 1){
