@@ -1,0 +1,33 @@
+@import url(http://fonts.googleapis.com/css?family=Aldrich);
+@import url(http://fonts.googleapis.com/css?family=Londrina+Outline);
+@import url(http://fonts.googleapis.com/css?family=Nosifer);
+
+body {
+  background-image: url("../images/pk.jpg");
+  background-size: cover;
+
+
+}
+
+h1 {
+  color: white;
+  background-color: blue;
+  font-family: 'Aldrich', sans-serif;
+
+}
+
+li:nth-child(2n) {
+  color: red;
+}
+
+h4 {
+  border: 1px dashed red;
+  border-radius: 5%;
+font-family: 'Londrina Outline', cursive;
+letter-spacing: 2px;
+}
+
+li:nth-child(2n + 1){
+  color: blue;
+  font-family: 'Nosifer', cursive;
+}
