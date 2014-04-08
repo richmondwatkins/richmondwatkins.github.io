@@ -25,10 +25,17 @@ h4 {
   border-radius: 5%;
 font-family: 'Londrina Outline', cursive;
 letter-spacing: 2px;
-color: white;
+color: white
 }
 
-li:nth-child(2n + 1){
+li {
   color: blue;
   font-family: 'Nosifer', cursive;
+  border-radius: 50%;
+  float: left;
+  background-color: white;
+  margin: 15px;
+  padding: 10px;
+  position: center;
+  list-style: none;
 }
