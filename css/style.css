@@ -3,8 +3,9 @@
 @import url(http://fonts.googleapis.com/css?family=Nosifer);
 
 body {
-  background-image: url("../images/wonka.gif");
+  background-image: url("../images/meandHank.jpg") ;
   background-size: cover;
+  color: white;
 
 
 }
@@ -17,9 +18,7 @@ h1 {
 
 }
 
-li:nth-child(2n) {
-  color: red;
-}
+
 
 h4 {
 
@@ -33,16 +32,29 @@ margin-left: 42%;
 
 li {
   color: blue;
-  font-family: 'Nosifer', cursive;
-  border-radius: 25%;
+  font-family: cursive;
+  border-radius: 50%;
   float: left;
   background-color: white;
-  margin: 15px;
+  margin: 10px;
   padding: 10px;
   position: center;
   list-style: none;
+
 
 }
 
 ul {
   margin-left: 25%;
+}
+
+
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: white;
+}
