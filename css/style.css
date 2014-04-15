@@ -54,7 +54,7 @@ td:hover {
   left: 15px;
   border: 2px solid black;
   border-radius: 5px;
-  
+
 }
 
 #ghubscalc {
@@ -68,12 +68,14 @@ td:hover {
 
 }
 
-#pscalc {
-  width: 400px;
-  position: relative;
-  top: 75px;
-  left: 15px;
+
+#superc{
+width: 300px;
+height: auto;
+float: right;
+
 }
+
 
 .contacticons {
   width: 40px
