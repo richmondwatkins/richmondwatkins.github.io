@@ -48,13 +48,6 @@ td:hover {
   text-align: center;
 }
 
-#scalc {
-  position: relative;
-  top: 75px;
-  left: 15px;
-  border: 2px solid black;
-  border-radius: 5px;
-
 }
 
 #ghubscalc {
@@ -69,12 +62,6 @@ td:hover {
 }
 
 
-#superc{
-width: 300px;
-height: auto;
-float: right;
-
-}
 
 
 .contacticons {
